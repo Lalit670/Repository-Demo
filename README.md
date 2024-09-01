@@ -1,4 +1,4 @@
 # Repository-Demo
 My first repository in GitHub
 <br>
-Author - Lalit Bhagat
+Author - Lalit Bhagat(BHT2030)
